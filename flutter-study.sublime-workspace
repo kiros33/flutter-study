@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"permu",
+				"Permute Lines: Unique"
+			],
+			[
+				"pcuap",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"Permu",
+				"Permute Lines: Unique"
+			],
+			[
+				"per",
+				"Permute Lines: Unique"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pcup",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"permute",
+				"Permute Lines: Unique"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set table syntax",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"set table syn",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"table",
+				"Table Editor: Set table syntax 'Simple' for current view"
+			],
+			[
+				"table editor",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"past",
+				"Text Pastry: Menu"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"format",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/kiros33/flutter-study"
+	],
+	"file_history":
+	[
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/default.txt",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/git_001.md",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/default.md",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_CM_SPEC_ID_PKG_CHIP.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/sskv_002.md",
+		"/G/내 드라이브/Sites/서울반도체/Database/Script/001.master.sql",
+		"/G/내 드라이브/설정/DBeaver_20240412/dbeaver.epf",
+		"/C/Users/kiros33/.m2/settings.xml",
+		"/C/Projects/seoulsemicon.com/t3series-ssck/README.md",
+		"/C/Zionex/t3series-mp-pk-23.0.0/config/configuration_supplynet.xml",
+		"/C/Zionex/t3series-mp-md-23.0.0/config/configuration_supplynet.xml",
+		"/C/Zionex/t3series-mp-fa-23.0.0/config/configuration_supplynet.xml",
+		"/C/Zionex/t3series-mp-ep-23.0.0/config/configuration_supplynet.xml",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/bin/install-service.bat",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/bin/start-service.bat",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/bin/setenv.bat",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/bin/wrapper.bat",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/bin/install-service-nopriv.sh",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/config/application.yaml",
+		"/C/Zionex/T3SmartSCM/t3series-baseserver-22.2.0/config/application-quartz-jobs.yaml",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_PK.20240612.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_EP.20240612.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_FA.20240612.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_MD.20240612.sql",
+		"/C/Users/307999/Downloads/2022_star_seoulsemicon_com/password.txt",
+		"/C/Users/307999/Downloads/apache_star_seoulsemicon_com/star_seoulsemicon_com/password.txt",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_009.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_EP.20240612.log",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_FA.20240612.log",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_PK.20240612.log",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/PFO_MD.20240612.log",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/T3SMARTSCM_IF.20240612.log",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/T3SMARTSCM.20240612.log",
+		"/C/ProgramData/chocolatey/bin/intellij.bat",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/T3SMARTSCM_IF.20240612.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/T3SMARTSCM.20240612.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/002.schema.sql",
+		"/F/내 드라이브/Sites/서울반도체/Database/Script/master.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_011.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_003.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_001.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/chocolatey_001.md",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/compare_001.txt",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_202A.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/BACKUP/SP_MP_STOCK_NET_MRM.20240501.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MRM.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_203D.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/BACKUP/SP_MP_STOCK_NET_MRM.20240429.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/BACKUP/SP_MP_STOCK_NET_MRM.20230925.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_204D.sql",
+		"/C/Zionex/SQLWorkbench/Workbench-Build131-with-optional-libs/SQLWorkbench.cfg",
+		"/C/Users/307999/.sqlworkbench/workbench.settings",
+		"/C/Users/307999/.sqlworkbench/wbssh.settings",
+		"/C/Zionex/SQLWorkbench/Workbench-Build131-with-optional-libs/sqlworkbench.cmd",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_GENERATE_DEMAND_SPEC_ID.sql",
+		"/C/Projects/seoulsemicon.com/t3series-ssck/t3series-wingui/src/main/webapp/js/bundle/src_view_purchaseplan_plan_plancontrolboard_PopMpExec_jsx.js",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_PRE_PK.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_708A.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_607.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/Z.Etc/A.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_PK.sql",
+		"/C/Zionex/T3SmartSCM/t3series-mp-22.2.0/config/configuration_supplynet.xml",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_211.sql",
+		"/C/Projects/seoulsemicon.com/t3series-ssck/.gitignore",
+		"/C/Zionex/T3SmartSCM/t3series-mp-22.2.0/scripts/5.Batch_Plan_PKG.py",
+		"/C/Zionex/T3SmartSCM/t3series-mp-22.2.0/scripts/1.Forward_Plan.py",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/project_001.md",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_704.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/3.DESIGN/Script_305.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/sskv_001.md",
+		"/C/Users/307999/.m2/settings.xml",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_MD_IN_PLAN_VALID.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_607A.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MRM_EACH.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_211D.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_213.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_214.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_DEMAND_ALLOCATION.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_DEMAND_ALLOCATION_ALL.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/BACKUP/SP_MP_STOCK_NET_KITTING.20240429.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/5.ENGINE/Script_506.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/sskv_005.md",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/BACKUP/SP_MP_STOCK_NET_MRM_EACH.20240429.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_SPEC_LINK_01.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_212.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_CONFIRM_PLAN.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/Z.Etc/B.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_202B.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_202D.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_GENERATE_DEMAND_SPEC_ID_20240508165500.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_IF_MT_SPEC_MAPPING.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/T3SMARTSCM_IF/SP_RFC_IF_SPEC_MAPPING.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/PFO_PK/SP_MP_PD_OUT_BATCH.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_702-PK.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/5.ENGINE/Script_508.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_IF_MT_SPEC_LINK.sql",
+		"/C/Users/307999/Desktop/Exported-2024-05-03.vssettings",
+		"/C/Users/307999/Desktop/Rebuild Table to DEV.dtsx",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_SPEC_MAPPING_MASTER.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/compare_002.txt",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_IF_MT_SPEC_LINK.sql.20240426.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_702-PK@.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_702-MD@.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_MD_IN_PLAN_VALID_20240419_PRD.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/compare_003.txt",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/Z.Etc/G.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/Z.Etc/H.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GENERATE_SORT_STRING.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/table/APS_MD_MP_INPUT_PLAN_CONFIRM_202403041331.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_IS_VALID_SPEC_1.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_STR.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_ID_2.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_ID_1.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_HASH.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/function/FN_GET_ITEM_ID_7.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_U_MU_028_S7.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_COMN_CODE.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_DEMAND_PRIORITY.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_ITEM_01.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/view/VW_PROD_VER_01.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_707.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_708.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_MD_IN_BATCH.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/7.PDB/Script_706.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/SP_MP_GEN_DEMAND_SPEC_ID.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbeaver/Scripts/4.MIGRATION/Script_403.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/dbms/procedure/AP_PROC_SCRIPT.sql",
+		"/C/Projects/seoulsemicon.com/project-scc-doc-2023/text/windows_002.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flutter-study.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"script_606",
+				"project-scc-doc-2023\\dbeaver\\Scripts\\6.META\\Script_606.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kiros33\\OneDrive\\문서\\Default.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
