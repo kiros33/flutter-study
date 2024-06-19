@@ -27,5 +27,4 @@ $env:GIT_SSH_COMMAND="ssh -i ~/.ssh/id_rsa_kiros33 -o IdentitiesOnly=yes"
 git clone git@github.com:kiros33/flutter-study.git
 ```
 
-
-
+choco install -y flutter
